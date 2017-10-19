@@ -1,0 +1,23 @@
+{
+  "name": "nodejs-email",
+  "version": "1.0.0",
+  "description": "Node.js Email",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/konojunya/node-email.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/konojunya/node-email/issues"
+  },
+  "homepage": "https://github.com/konojunya/node-email#readme",
+  "dependencies": {
+    "nodemailer": "^4.2.0"
+  }
+}
